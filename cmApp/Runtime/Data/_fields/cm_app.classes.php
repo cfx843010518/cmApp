@@ -1,0 +1,1 @@
+a:6:{i:0;s:10:"classes_id";i:1;s:12:"classes_name";i:2;s:11:"classes_num";i:3;s:11:"colleage_id";s:3:"_pk";s:10:"classes_id";s:5:"_type";a:4:{s:10:"classes_id";s:7:"int(11)";s:12:"classes_name";s:11:"varchar(50)";s:11:"classes_num";s:7:"int(11)";s:11:"colleage_id";s:7:"int(11)";}}

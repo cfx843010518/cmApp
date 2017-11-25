@@ -48,7 +48,7 @@ class AdminController extends Controller {
 			move_uploaded_file($tmp_name,'Public/temp/'.$filename);
 			$this->export1('temp/'.$filename);
 		}
-		$this->success('导入成功','init');
+		// $this->success('导入成功','init');
 	}
 	// 多个教室信息的录入
 	public function exprotExcelMany(){
@@ -134,6 +134,7 @@ class AdminController extends Controller {
 			$data2['room_volume'] = 100;
 		}
 		M('room')->add($data2);			//往教室表插入一条数据
+		$rowCount = $rowCount/2;
 		for ($i = 4; $i <= $rowCount-1; $i++){	//循环导入信息	
 			$str = $objPHPExcel->getActiveSheet()->getCell("C".$i)->getValue();
 			$this->run($str,$i,$room_name,'C',$term_id);
@@ -408,7 +409,12 @@ class AdminController extends Controller {
 		// echo $term_name;
 		$condition['term_name'] = $term_name;
 		$rs = M('term')->where($condition)->find();
-		$term_id = $rs['term_id'];						//获得学期编号
+		if($rs==null){
+			$data['term_name'] = $term_name;
+			$term_id = M('term')->add($data);
+		}else{
+			$term_id = $rs['term_id'];		//获得学期编号
+		}			
 		// 开始插入数据
 		$A2 = $objPHPExcel->getActiveSheet()->getCell("A2")->getValue();
 		$a2 = explode('(',$A2);
@@ -434,6 +440,8 @@ class AdminController extends Controller {
 		$data['classes_num'] = $classes_num;		
 		$classes_id = M('classes')->add($data);					//往班级表插入一条记录,顺便获得classes_id
 		// 开始处理课表
+		$rowCount = $rowCount/2;
+		//var_dump($rowCount);
 		for ($i = 4; $i <= $rowCount-1; $i++){	//循环导入信息	
 			$str = $objPHPExcel->getActiveSheet()->getCell("C".$i)->getValue();
 			$this->run2($str,$room_name,'C',$term_id,$classes_id);
@@ -503,7 +511,7 @@ class AdminController extends Controller {
 			// $this->success('导入成功','Mains');
 		}
 		// $this->export2('班级名称：15ERP1(59人)    班级代码：01051501.xls');
-		// $this->success('导入成功','init');
+		$this->success('导入成功','init');
 	}
 	// 多个教师课表的录入
 	public function exprotManyTeaSub(){
@@ -707,31 +715,124 @@ class AdminController extends Controller {
 			$data['can_use'] = $can_use;
 			$data['room_volume'] = $room_volume;
 			$result = $roomModel->where($condition)->save($data);
-			//echo $result;
+			
 		}
 	}
 	/*导入教室容量*/
+	
+	/*导入学生信息*/
+	public function exportStuMes(){
+		if (!empty($_FILES)) {
+            $filename = 'd.xls';
+			$tmp_name = $_FILES['file']['tmp_name'];
+			move_uploaded_file($tmp_name,'Public/temp/'.$filename);
+			// echo $filename;
+			$this->export4('temp/'.$filename);
+			// $this->success('导入成功','Mains');
+		}
+		// $this->export2('班级名称：15ERP1(59人)    班级代码：01051501.xls');
+		$this->success('导入成功','init');
+	}
+	//多个导入
+	public function exprotManyStuMes(){
+		$filename = 'd.zip';
+		$tmp_name = $_FILES['file2']['tmp_name'];
+		move_uploaded_file($tmp_name,'Public/temp/'.$filename);
+		$zip = new MyUnit();			//实例化zip工具类
+		$zipfile   = BASE_PATH.'Public/temp/'.$filename;				//压缩文件名
+		$savepath  = BASE_PATH.'Public/upload4/';						//解压缩目录名
+		$array = $zip->GetZipInnerFilesInfo($zipfile);
+		// var_dump($array);
+		$filecount = 0;
+        $dircount  = 0;
+        $failfiles = array();
+		for($i=0; $i<count($array); $i++) {
+            if($array[$i]['folder'] == 0){
+                if($zip->unZip($zipfile, $savepath, $i) > 0){
+                    $filecount++;
+                }else{
+                    $failfiles[] = $array[$i]['filename'];
+                }
+            }else{
+                $dircount++;
+            }
+        }
+		// Open a known directory, and proceed to read its contents
+		$dir = "./Public/upload4/";
+		$file=scandir($dir);
+		for($i=2;$i<count($file);$i++){
+			$this->export4('upload4/'.$file[$i]);									//遍历文件，实现多导入
+		}
+		$this->success('导入成功','init');
+	}
+	public function export4($load){
+		require_once 'module/PHPExcel/Classes/PHPExcel/IOFactory.php';
+		$objPHPExcel = \PHPExcel_IOFactory::load("Public/".$load);
+		$objPHPExcel->setActiveSheetIndex(0);
+		$sheet0=$objPHPExcel->getSheet(0);
+		$rowCount=$sheet0->getHighestRow();//  			获取excel行数
+		$columnCount=$sheet0->getHighestColumn();		//获取excel列数
+		$columnCount= \PHPExcel_Cell::columnIndexFromString($columnCount); //字母列转换为数字列如
+		//var_dump($rowCount);
+		// 开始处理学生信息
+		for ($i = 2; $i <= $rowCount; $i++){	//循环导入信息	
+			$stuNo = $objPHPExcel->getActiveSheet()->getCell("A".$i)->getValue();
+			$classes_name = $objPHPExcel->getActiveSheet()->getCell("B".$i)->getValue();
+			//找出班级ID
+			$classes_names = explode("（",$classes_name);
+			if(count($classes_names)==2){
+				$classes_name = $classes_names[0];
+			}
+			$condition['classes_name'] = $classes_name;
+			$rs = M('classes')->where($condition)->find();
+			if($rs!=null){
+				$classes_id = $rs['classes_id'];
+			}else{
+				$classes_id = "";
+			}
+			$stu_name = $objPHPExcel->getActiveSheet()->getCell("C".$i)->getValue();	//获得姓名
+			$stu_sex = $objPHPExcel->getActiveSheet()->getCell("D".$i)->getValue();	
+			$stu_major = $objPHPExcel->getActiveSheet()->getCell("E".$i)->getValue();
+			//构造数据
+			$data['stu_no'] = $stuNo;
+			$data['stu_name'] = $stu_name;
+			$data['stu_sex'] = $stu_sex;
+			$data['stu_major'] = $stu_major;
+			$data['stu_photo'] = '00.png';
+			$data['stu_password'] = '123';
+			$data['classes_id'] = $classes_id;
+			var_dump($data);
+			M('student')->add($data);
+		}
+	}
+	
+	
+	
+	/*导入学生信息*/
 	
 	
 	
 	//删除某个文件夹下的文件
 	public function deleteAllFile($dirName){
-		if(file_exists($dirName)&& $handle = opendir($dirName)){
-			while(false!==($item = readdir($handle))){
-				if($item != "." && $item != ".."){
-					if(file_exists($dirName.'/'.$item) && is_dir($dirName.'/'.$item)){
-						// delFile($dirName.'/'.$item);
-						rmdir($dirName.'/'.$item);
-					}
-					else{
-						if(unlink($dirName.'/'.$item)){
-							return true;
-						}
-					}
+		$dir = 'Public/upload1';
+		$dh=opendir($dir);
+		while ($file=readdir($dh)) 
+		{
+			if($file!="." && $file!="..") 
+			{
+				$fullpath=$dir."/".$file;
+				
+				if(!is_dir($fullpath))
+				{
+					unlink($fullpath);
+				} 
+				else
+				{
+					deldir($fullpath);
 				}
 			}
-			closedir($handle);
 		}
+		closedir($dh);
 	}
 	
 	
@@ -1026,7 +1127,9 @@ class AdminController extends Controller {
 	
 	
 	
-	
+	public function test10(){
+		
+	}
 	
 	
 	

@@ -15,14 +15,14 @@
 	</form>
 	<a href="http://localhost/zfApp/product/test.php">测试</a>
 -->
-	<!--
+	
 	<form action="checkUser" method="post">
 		用户名(学号/教职工编号)<input type="text" name="user_account"/>
 		密码：<input type="password" name="user_password"/>
 		角色：<input type="text" name="user_role"/>
 		<input type="submit" value="登录"/>
 	</form>
--->
+
 	<!--
 	<form action="updatePassword" method="post">
 		user_id:(学号/教职工编号)<input type="text" name="user_id"/>
@@ -31,14 +31,14 @@
 		<input type="submit" value="登录"/>
 	</form>
 	-->
-	
+	<!--
 		<form action="updatePhoto" method="POST" enctype="multipart/form-data">
 		user_id:(学号/教职工编号)<input type="text" name="user_id"/>
 		头像：<input type="file" name="user_photo"/>
 		角色：<input type="text" name="user_role"/>
 		<input type="submit" value="登录"/>
 		</form>
-	
+	-->
 		<!--
 		<form action="http://39.108.96.188:8088/cmApp/User/myTest" method="POST" enctype="multipart/form-data">
 		
