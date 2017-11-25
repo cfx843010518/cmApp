@@ -1,0 +1,1 @@
+a:6:{i:0;s:9:"room_name";i:1;s:12:"room_type_id";i:2;s:11:"room_volume";i:3;s:7:"can_use";s:3:"_pk";s:9:"room_name";s:5:"_type";a:4:{s:9:"room_name";s:11:"varchar(20)";s:12:"room_type_id";s:7:"int(11)";s:11:"room_volume";s:7:"int(11)";s:7:"can_use";s:7:"int(11)";}}
