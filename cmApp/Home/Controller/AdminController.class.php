@@ -801,7 +801,7 @@ class AdminController extends Controller {
 			$data['stu_photo'] = '00.png';
 			$data['stu_password'] = '123';
 			$data['classes_id'] = $classes_id;
-			var_dump($data);
+			// var_dump($data);
 			M('student')->add($data);
 		}
 	}
