@@ -1,45 +1,2208 @@
-[ 2017-11-23T14:48:16+08:00 ] 113.64.72.167 /cmApp/login
-ERR: 无法加载控制器:Login
+[ 2017-11-23T20:20:32+08:00 ] ::1 /cmApp/Admin/MesTrun
+ERR: 1701:Cannot truncate a table referenced in a foreign key constraint (`cm_app`.`cm_student_schedules`, CONSTRAINT `FK_r_term_id` FOREIGN KEY (`term_id`) REFERENCES `cm_app`.`cm_term` (`term_id`))
+ [ SQL语句 ] : call clearTable()
 
-[ 2017-11-23T14:48:18+08:00 ] 113.64.72.167 /cmApp/index
-ERR: Could not open Public/upload/S3316.xlsx for reading! File does not exist.
+[ 2017-11-23T21:17:38+08:00 ] ::1 /cmApp/Admin/exportTeaMes
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010185','43013.70462963',null,7,'J',null,7)
 
-[ 2017-11-23T14:48:23+08:00 ] 113.64.72.167 /cmApp/login
-ERR: 无法加载控制器:Login
+[ 2017-11-23T21:20:42+08:00 ] ::1 /cmApp/Admin/exprotManyTeaSub
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010112','43005.472592593',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010008','43005.442685185',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010009','43005.44287037',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010010','43005.443020833',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010012','43005.6515625',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010020','43005.443668981',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010021','43005.443761574',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010022','43005.443969907',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010023','43005.444085648',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010024','43005.444293981',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010025','43005.444490741',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010027','43005.444768519',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010028','43005.445',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010029','43005.445138889',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010032','43005.445358796',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010033','43005.44556713',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010035','43005.445706019',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010036','43005.458587963',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010038','43005.458726852',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010039','43005.458831018',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010041','43005.458981481',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010042','43005.459085648',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010043','43005.459201389',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010044','43005.459351852',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010047','43005.459479167',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010049','43005.459768518',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010050','43005.460034722',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010052','43005.460231481',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010053','43005.460428241',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010063','43005.460717593',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010065','43005.460972222',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010066','43005.461122685',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010067','43005.471724537',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010069','43007.495648148',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010070','43005.472164352',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010078','43006.715960648',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010087','43005.472430556',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010113','43005.472800926',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010114','43005.473043982',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010125','43005.473391204',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010129','43005.473587963',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010130','43005.473784722',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010131','43005.473993056',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010132','43005.474143518',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010133','43005.474386574',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010135','43005.474606481',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010136','43005.474861111',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010137','43005.498113426',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010138','43005.498321759',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010139','43005.498472222',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010147','43005.498645833',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010148','43005.498715278',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010149','43005.498946759',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010150','43005.4990625',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010160','43005.499143519',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010163','43005.499282407',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010165','43005.499375',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010166','43005.499606481',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010175','43005.499710648',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010176','43005.499861111',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010178','43005.499953704',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010179','43005.500127315',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010183','43005.500266204',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010188','43005.500717593',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010191','43005.500902778',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010241','43005.501273148',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010242','43005.501400463',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010243','43005.5015625',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010253','43005.501979167',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010254','43005.502141204',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010255','43005.502291667',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010256','43005.502488426',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010264','43005.502731482',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010265','43005.502881944',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010273','43005.503032407',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010274','43005.503229167',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010277','43005.503402778',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010278','43005.503564815',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010298','43005.50369213',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('010299','43005.503969907',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('020029','43005.504189815',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('020180','43005.504386574',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('049034','43005.504606482',null,7,'J',null,7)
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_teacher_schedules` (`tea_no`,`subject_name`,`time`,`week_day`,`room_name`,`classes_name`,`term_id`) VALUES ('110219','43005.50474537',null,7,'J',null,7)
 
-[ 2017-11-23T14:48:24+08:00 ] 113.64.72.167 /cmApp/index
-ERR: Could not open Public/upload/S3316.xlsx for reading! File does not exist.
+[ 2017-11-23T22:00:13+08:00 ] ::1 /cmApp/Admin/exprotExcelMany
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,100)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：02' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：02',2,0)
+ERR: 1062:Duplicate entry 'S3209' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3209',1,53)
+ERR: 1062:Duplicate entry 'S3214' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3214',1,55)
+ERR: 1062:Duplicate entry 'S3223' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3223',1,60)
+ERR: 1062:Duplicate entry 'S3309' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3309',1,60)
+ERR: 1062:Duplicate entry 'S3316' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3316',1,68)
+ERR: 1062:Duplicate entry 'S3319' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3319',1,68)
+ERR: 1062:Duplicate entry 'S3409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3409',1,65)
+ERR: 1062:Duplicate entry 'S3423' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3423',1,62)
+ERR: 1062:Duplicate entry 'S3502' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3502',1,65)
+ERR: 1062:Duplicate entry 'S3509' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3509',1,60)
+ERR: 1062:Duplicate entry 'S4411' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4411',1,73)
+ERR: 1062:Duplicate entry 'S4511' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4511',1,55)
+ERR: 1062:Duplicate entry 'S4512' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4512',1,60)
 
-[ 2017-11-23T14:48:28+08:00 ] 101.226.33.217 /cmApp/index
-ERR: Could not open Public/upload/S3316.xlsx for reading! File does not exist.
+[ 2017-11-23T22:58:12+08:00 ] ::1 /cmApp/Admin/exprotExcelMany
+ERR: 1062:Duplicate entry 'S3214' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3214',1,55)
+ERR: 1062:Duplicate entry 'S3223' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3223',1,60)
+ERR: 1062:Duplicate entry 'S3309' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3309',1,60)
+ERR: 1062:Duplicate entry 'S3316' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3316',1,68)
+ERR: 1062:Duplicate entry 'S3319' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3319',1,68)
+ERR: 1062:Duplicate entry 'S3409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3409',1,65)
+ERR: 1062:Duplicate entry 'S3423' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3423',1,62)
+ERR: 1062:Duplicate entry 'S3502' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3502',1,65)
+ERR: 1062:Duplicate entry 'S3507' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3507',1,100)
+ERR: 1062:Duplicate entry 'S3509' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3509',1,60)
+ERR: 1062:Duplicate entry 'S4409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4409',1,51)
+ERR: 1062:Duplicate entry 'S4411' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4411',1,73)
+ERR: 1062:Duplicate entry 'S4511' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4511',1,55)
+ERR: 1062:Duplicate entry 'S4512' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4512',1,60)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,100)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：02' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：02',2,0)
+ERR: 1062:Duplicate entry '：02' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：02',2,0)
+ERR: 1062:Duplicate entry '：04' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：04',2,0)
+ERR: 1062:Duplicate entry 'J1102' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1102',2,58)
+ERR: 1062:Duplicate entry 'J1103' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1103',2,84)
+ERR: 1062:Duplicate entry 'J1104' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1104',2,84)
+ERR: 1062:Duplicate entry 'J1108' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1108',2,84)
+ERR: 1062:Duplicate entry 'J1109' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1109',2,84)
+ERR: 1062:Duplicate entry 'J1110' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1110',2,58)
+ERR: 1062:Duplicate entry 'J1202' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1202',2,58)
+ERR: 1062:Duplicate entry 'J1203' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1203',2,84)
+ERR: 1062:Duplicate entry 'J1204' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1204',2,84)
+ERR: 1062:Duplicate entry 'J1205' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1205',2,112)
+ERR: 1062:Duplicate entry 'J1206' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1206',2,112)
+ERR: 1062:Duplicate entry 'J1207' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1207',2,84)
+ERR: 1062:Duplicate entry 'J1208' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1208',2,84)
+ERR: 1062:Duplicate entry 'J1209' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1209',2,58)
+ERR: 1062:Duplicate entry 'J1211' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1211',2,72)
+ERR: 1062:Duplicate entry 'J1212' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1212',2,72)
+ERR: 1062:Duplicate entry 'J1302' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1302',2,58)
+ERR: 1062:Duplicate entry 'J1303' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1303',2,84)
+ERR: 1062:Duplicate entry 'J1304' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1304',2,84)
+ERR: 1062:Duplicate entry 'J1305' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1305',2,112)
+ERR: 1062:Duplicate entry 'J1306' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1306',2,112)
+ERR: 1062:Duplicate entry 'J1307' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1307',2,84)
+ERR: 1062:Duplicate entry 'J1308' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1308',2,84)
+ERR: 1062:Duplicate entry 'J1309' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1309',2,58)
+ERR: 1062:Duplicate entry 'J1311' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1311',2,110)
+ERR: 1062:Duplicate entry 'J1312' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1312',2,110)
+ERR: 1062:Duplicate entry 'J1402' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1402',2,69)
+ERR: 1062:Duplicate entry 'J1403' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1403',2,89)
+ERR: 1062:Duplicate entry 'J1404' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1404',2,89)
+ERR: 1062:Duplicate entry 'J1405' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1405',2,134)
+ERR: 1062:Duplicate entry 'J1406' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1406',2,134)
+ERR: 1062:Duplicate entry 'J1407' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1407',2,89)
+ERR: 1062:Duplicate entry 'J1408' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1408',2,89)
+ERR: 1062:Duplicate entry 'J1409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1409',2,69)
+ERR: 1062:Duplicate entry 'J1411' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1411',2,220)
+ERR: 1062:Duplicate entry 'J1502' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1502',2,69)
+ERR: 1062:Duplicate entry 'J1503' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1503',2,89)
+ERR: 1062:Duplicate entry 'J1504' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1504',2,89)
+ERR: 1062:Duplicate entry 'J1505' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1505',2,139)
+ERR: 1062:Duplicate entry 'J1506' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1506',2,139)
+ERR: 1062:Duplicate entry 'J1507' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1507',2,89)
+ERR: 1062:Duplicate entry 'J1508' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1508',2,89)
+ERR: 1062:Duplicate entry 'J1509' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1509',2,69)
+ERR: 1062:Duplicate entry 'J1511' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1511',2,220)
+ERR: 1062:Duplicate entry 'J2102' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2102',2,154)
+ERR: 1062:Duplicate entry 'J2103' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2103',2,156)
+ERR: 1062:Duplicate entry 'J2107' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2107',2,156)
+ERR: 1062:Duplicate entry 'J2108' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2108',2,154)
+ERR: 1062:Duplicate entry 'J2202' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2202',2,81)
+ERR: 1062:Duplicate entry 'J2203' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2203',2,83)
+ERR: 1062:Duplicate entry 'J2204' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2204',2,83)
+ERR: 1062:Duplicate entry 'J2205' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2205',2,112)
+ERR: 1062:Duplicate entry 'J2206' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2206',2,112)
+ERR: 1062:Duplicate entry 'J2207' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2207',2,83)
+ERR: 1062:Duplicate entry 'J2208' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2208',2,83)
+ERR: 1062:Duplicate entry 'J2209' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2209',2,81)
+ERR: 1062:Duplicate entry 'J2302' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2302',2,81)
+ERR: 1062:Duplicate entry 'J2303' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2303',2,83)
+ERR: 1062:Duplicate entry 'J2304' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2304',2,83)
+ERR: 1062:Duplicate entry 'J2305' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2305',2,112)
+ERR: 1062:Duplicate entry 'J2306' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2306',2,112)
+ERR: 1062:Duplicate entry 'J2307' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2307',2,83)
+ERR: 1062:Duplicate entry 'J2308' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2308',2,83)
+ERR: 1062:Duplicate entry 'J2309' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2309',2,81)
+ERR: 1062:Duplicate entry 'J2311' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2311',2,250)
+ERR: 1062:Duplicate entry 'J2402' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2402',2,81)
+ERR: 1062:Duplicate entry 'J2403' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2403',2,83)
+ERR: 1062:Duplicate entry 'J2404' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2404',2,83)
+ERR: 1062:Duplicate entry 'J2405' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2405',2,112)
+ERR: 1062:Duplicate entry 'J2406' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2406',2,112)
+ERR: 1062:Duplicate entry 'J2407' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2407',2,83)
+ERR: 1062:Duplicate entry 'J2408' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2408',2,83)
+ERR: 1062:Duplicate entry 'J2409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2409',2,81)
+ERR: 1062:Duplicate entry 'J2411' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2411',2,250)
+ERR: 1062:Duplicate entry 'J2502' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2502',2,81)
+ERR: 1062:Duplicate entry 'J2503' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2503',2,83)
+ERR: 1062:Duplicate entry 'J2504' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2504',2,83)
+ERR: 1062:Duplicate entry 'J2505' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2505',2,112)
+ERR: 1062:Duplicate entry 'J2506' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2506',2,112)
+ERR: 1062:Duplicate entry 'J2507' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2507',2,83)
+ERR: 1062:Duplicate entry 'J2508' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2508',2,83)
+ERR: 1062:Duplicate entry 'J2509' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2509',2,81)
+ERR: 1062:Duplicate entry 'J2511' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2511',2,250)
+ERR: 1062:Duplicate entry 'J3106' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3106',2,156)
+ERR: 1062:Duplicate entry 'J3107' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3107',2,156)
+ERR: 1062:Duplicate entry 'J3202' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3202',2,84)
+ERR: 1062:Duplicate entry 'J3203' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3203',2,84)
+ERR: 1062:Duplicate entry 'J3204' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3204',2,84)
+ERR: 1062:Duplicate entry 'J3205' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3205',2,104)
+ERR: 1062:Duplicate entry 'J3206' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3206',2,104)
+ERR: 1062:Duplicate entry 'J3207' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3207',2,84)
+ERR: 1062:Duplicate entry 'J3208' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3208',2,84)
+ERR: 1062:Duplicate entry 'J3209' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3209',2,84)
+ERR: 1062:Duplicate entry 'J3211' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3211',2,142)
+ERR: 1062:Duplicate entry 'J3302' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3302',2,84)
+ERR: 1062:Duplicate entry 'J3303' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3303',2,84)
+ERR: 1062:Duplicate entry 'J3304' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3304',2,84)
+ERR: 1062:Duplicate entry 'J3305' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3305',2,104)
+ERR: 1062:Duplicate entry 'J3306' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3306',2,104)
+ERR: 1062:Duplicate entry 'J3307' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3307',2,84)
+ERR: 1062:Duplicate entry 'J3308' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3308',2,84)
+ERR: 1062:Duplicate entry 'J3309' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3309',2,84)
+ERR: 1062:Duplicate entry 'J3311' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3311',2,262)
+ERR: 1062:Duplicate entry 'J3402' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3402',2,84)
+ERR: 1062:Duplicate entry 'J3403' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3403',2,84)
+ERR: 1062:Duplicate entry 'J3404' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3404',2,84)
+ERR: 1062:Duplicate entry 'J3407' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3407',2,84)
+ERR: 1062:Duplicate entry 'J3408' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3408',2,84)
+ERR: 1062:Duplicate entry 'J3409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3409',2,84)
+ERR: 1062:Duplicate entry 'J3411' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3411',2,262)
+ERR: 1062:Duplicate entry 'J3507' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3507',2,262)
+ERR: 1062:Duplicate entry 'S1503' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S1503',1,64)
+ERR: 1062:Duplicate entry 'S3207' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3207',1,50)
+ERR: 1062:Duplicate entry 'S3209' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3209',1,53)
+ERR: 1062:Duplicate entry 'S3214' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3214',1,55)
+ERR: 1062:Duplicate entry 'S3223' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3223',1,60)
+ERR: 1062:Duplicate entry 'S3309' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3309',1,60)
+ERR: 1062:Duplicate entry 'S3316' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3316',1,68)
+ERR: 1062:Duplicate entry 'S3319' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3319',1,68)
+ERR: 1062:Duplicate entry 'S3409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3409',1,65)
+ERR: 1062:Duplicate entry 'S3423' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3423',1,62)
+ERR: 1062:Duplicate entry 'S3502' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3502',1,65)
+ERR: 1062:Duplicate entry 'S3509' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3509',1,60)
+ERR: 1062:Duplicate entry 'S3523' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3523',1,40)
+ERR: 1062:Duplicate entry 'S4407' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4407',1,50)
+ERR: 1062:Duplicate entry 'S4411' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4411',1,73)
+ERR: 1062:Duplicate entry 'S4511' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4511',1,55)
+ERR: 1062:Duplicate entry 'S4512' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4512',1,60)
 
-[ 2017-11-23T14:48:35+08:00 ] 113.64.72.167 /cmApp/login
-ERR: 无法加载控制器:Login
+[ 2017-11-23T23:13:19+08:00 ] ::1 /cmApp/Admin/exprotExcelMany
+ERR: 1062:Duplicate entry 'S3223' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3223',1,60)
+ERR: 1062:Duplicate entry 'S3309' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3309',1,60)
+ERR: 1062:Duplicate entry 'S3316' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3316',1,68)
+ERR: 1062:Duplicate entry 'S3319' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3319',1,68)
+ERR: 1062:Duplicate entry 'S3409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3409',1,65)
+ERR: 1062:Duplicate entry 'S3423' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3423',1,62)
+ERR: 1062:Duplicate entry 'S3502' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3502',1,65)
+ERR: 1062:Duplicate entry 'S3507' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3507',1,100)
+ERR: 1062:Duplicate entry 'S3509' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3509',1,60)
+ERR: 1062:Duplicate entry 'S4409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4409',1,51)
+ERR: 1062:Duplicate entry 'S4411' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4411',1,73)
+ERR: 1062:Duplicate entry 'S4511' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4511',1,55)
+ERR: 1062:Duplicate entry 'S4512' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4512',1,60)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,100)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：02' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：02',2,0)
+ERR: 1062:Duplicate entry '：02' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：02',2,0)
+ERR: 1062:Duplicate entry '：04' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：04',2,0)
+ERR: 1062:Duplicate entry 'J1102' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1102',2,58)
+ERR: 1062:Duplicate entry 'J1103' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1103',2,84)
+ERR: 1062:Duplicate entry 'J1104' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1104',2,84)
+ERR: 1062:Duplicate entry 'J1108' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1108',2,84)
+ERR: 1062:Duplicate entry 'J1109' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1109',2,84)
+ERR: 1062:Duplicate entry 'J1110' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1110',2,58)
+ERR: 1062:Duplicate entry 'J1202' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1202',2,58)
+ERR: 1062:Duplicate entry 'J1203' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1203',2,84)
+ERR: 1062:Duplicate entry 'J1204' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1204',2,84)
+ERR: 1062:Duplicate entry 'J1205' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1205',2,112)
+ERR: 1062:Duplicate entry 'J1206' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1206',2,112)
+ERR: 1062:Duplicate entry 'J1207' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1207',2,84)
+ERR: 1062:Duplicate entry 'J1208' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1208',2,84)
+ERR: 1062:Duplicate entry 'J1209' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1209',2,58)
+ERR: 1062:Duplicate entry 'J1211' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1211',2,72)
+ERR: 1062:Duplicate entry 'J1212' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1212',2,72)
+ERR: 1062:Duplicate entry 'J1302' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1302',2,58)
+ERR: 1062:Duplicate entry 'J1303' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1303',2,84)
+ERR: 1062:Duplicate entry 'J1304' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1304',2,84)
+ERR: 1062:Duplicate entry 'J1305' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1305',2,112)
+ERR: 1062:Duplicate entry 'J1306' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1306',2,112)
+ERR: 1062:Duplicate entry 'J1307' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1307',2,84)
+ERR: 1062:Duplicate entry 'J1308' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1308',2,84)
+ERR: 1062:Duplicate entry 'J1309' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1309',2,58)
+ERR: 1062:Duplicate entry 'J1311' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1311',2,110)
+ERR: 1062:Duplicate entry 'J1312' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1312',2,110)
+ERR: 1062:Duplicate entry 'J1402' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1402',2,69)
+ERR: 1062:Duplicate entry 'J1403' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1403',2,89)
+ERR: 1062:Duplicate entry 'J1404' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1404',2,89)
+ERR: 1062:Duplicate entry 'J1405' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1405',2,134)
+ERR: 1062:Duplicate entry 'J1406' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1406',2,134)
+ERR: 1062:Duplicate entry 'J1407' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1407',2,89)
+ERR: 1062:Duplicate entry 'J1408' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1408',2,89)
+ERR: 1062:Duplicate entry 'J1409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1409',2,69)
+ERR: 1062:Duplicate entry 'J1411' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1411',2,220)
+ERR: 1062:Duplicate entry 'J1502' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1502',2,69)
+ERR: 1062:Duplicate entry 'J1503' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1503',2,89)
+ERR: 1062:Duplicate entry 'J1504' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1504',2,89)
+ERR: 1062:Duplicate entry 'J1505' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1505',2,139)
+ERR: 1062:Duplicate entry 'J1506' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1506',2,139)
+ERR: 1062:Duplicate entry 'J1507' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1507',2,89)
+ERR: 1062:Duplicate entry 'J1508' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1508',2,89)
+ERR: 1062:Duplicate entry 'J1509' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1509',2,69)
+ERR: 1062:Duplicate entry 'J1511' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1511',2,220)
+ERR: 1062:Duplicate entry 'J2102' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2102',2,154)
+ERR: 1062:Duplicate entry 'J2103' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2103',2,156)
+ERR: 1062:Duplicate entry 'J2107' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2107',2,156)
+ERR: 1062:Duplicate entry 'J2108' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2108',2,154)
+ERR: 1062:Duplicate entry 'J2202' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2202',2,81)
+ERR: 1062:Duplicate entry 'J2203' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2203',2,83)
+ERR: 1062:Duplicate entry 'J2204' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2204',2,83)
+ERR: 1062:Duplicate entry 'J2205' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2205',2,112)
+ERR: 1062:Duplicate entry 'J2206' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2206',2,112)
+ERR: 1062:Duplicate entry 'J2207' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2207',2,83)
+ERR: 1062:Duplicate entry 'J2208' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2208',2,83)
+ERR: 1062:Duplicate entry 'J2209' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2209',2,81)
+ERR: 1062:Duplicate entry 'J2302' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2302',2,81)
+ERR: 1062:Duplicate entry 'J2303' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2303',2,83)
+ERR: 1062:Duplicate entry 'J2304' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2304',2,83)
+ERR: 1062:Duplicate entry 'J2305' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2305',2,112)
+ERR: 1062:Duplicate entry 'J2306' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2306',2,112)
+ERR: 1062:Duplicate entry 'J2307' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2307',2,83)
+ERR: 1062:Duplicate entry 'J2308' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2308',2,83)
+ERR: 1062:Duplicate entry 'J2309' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2309',2,81)
+ERR: 1062:Duplicate entry 'J2311' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2311',2,250)
+ERR: 1062:Duplicate entry 'J2402' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2402',2,81)
+ERR: 1062:Duplicate entry 'J2403' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2403',2,83)
+ERR: 1062:Duplicate entry 'J2404' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2404',2,83)
+ERR: 1062:Duplicate entry 'J2405' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2405',2,112)
+ERR: 1062:Duplicate entry 'J2406' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2406',2,112)
+ERR: 1062:Duplicate entry 'J2407' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2407',2,83)
+ERR: 1062:Duplicate entry 'J2408' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2408',2,83)
+ERR: 1062:Duplicate entry 'J2409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2409',2,81)
+ERR: 1062:Duplicate entry 'J2411' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2411',2,250)
+ERR: 1062:Duplicate entry 'J2502' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2502',2,81)
+ERR: 1062:Duplicate entry 'J2503' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2503',2,83)
+ERR: 1062:Duplicate entry 'J2504' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2504',2,83)
+ERR: 1062:Duplicate entry 'J2505' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2505',2,112)
+ERR: 1062:Duplicate entry 'J2506' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2506',2,112)
+ERR: 1062:Duplicate entry 'J2507' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2507',2,83)
+ERR: 1062:Duplicate entry 'J2508' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2508',2,83)
+ERR: 1062:Duplicate entry 'J2509' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2509',2,81)
+ERR: 1062:Duplicate entry 'J2511' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2511',2,250)
+ERR: 1062:Duplicate entry 'J3106' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3106',2,156)
+ERR: 1062:Duplicate entry 'J3107' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3107',2,156)
+ERR: 1062:Duplicate entry 'J3202' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3202',2,84)
+ERR: 1062:Duplicate entry 'J3203' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3203',2,84)
+ERR: 1062:Duplicate entry 'J3204' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3204',2,84)
+ERR: 1062:Duplicate entry 'J3205' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3205',2,104)
+ERR: 1062:Duplicate entry 'J3206' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3206',2,104)
+ERR: 1062:Duplicate entry 'J3207' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3207',2,84)
+ERR: 1062:Duplicate entry 'J3208' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3208',2,84)
+ERR: 1062:Duplicate entry 'J3209' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3209',2,84)
+ERR: 1062:Duplicate entry 'J3211' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3211',2,142)
+ERR: 1062:Duplicate entry 'J3302' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3302',2,84)
+ERR: 1062:Duplicate entry 'J3303' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3303',2,84)
+ERR: 1062:Duplicate entry 'J3304' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3304',2,84)
+ERR: 1062:Duplicate entry 'J3305' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3305',2,104)
+ERR: 1062:Duplicate entry 'J3306' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3306',2,104)
+ERR: 1062:Duplicate entry 'J3307' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3307',2,84)
+ERR: 1062:Duplicate entry 'J3308' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3308',2,84)
+ERR: 1062:Duplicate entry 'J3309' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3309',2,84)
+ERR: 1062:Duplicate entry 'J3311' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3311',2,262)
+ERR: 1062:Duplicate entry 'J3402' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3402',2,84)
+ERR: 1062:Duplicate entry 'J3403' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3403',2,84)
+ERR: 1062:Duplicate entry 'J3404' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3404',2,84)
+ERR: 1062:Duplicate entry 'J3407' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3407',2,84)
+ERR: 1062:Duplicate entry 'J3408' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3408',2,84)
+ERR: 1062:Duplicate entry 'J3409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3409',2,84)
+ERR: 1062:Duplicate entry 'J3411' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3411',2,262)
+ERR: 1062:Duplicate entry 'J3507' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3507',2,262)
+ERR: 1062:Duplicate entry 'S1503' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S1503',1,64)
+ERR: 1062:Duplicate entry 'S3207' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3207',1,50)
+ERR: 1062:Duplicate entry 'S3209' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3209',1,53)
+ERR: 1062:Duplicate entry 'S3214' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3214',1,55)
+ERR: 1062:Duplicate entry 'S3223' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3223',1,60)
+ERR: 1062:Duplicate entry 'S3309' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3309',1,60)
+ERR: 1062:Duplicate entry 'S3316' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3316',1,68)
+ERR: 1062:Duplicate entry 'S3319' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3319',1,68)
+ERR: 1062:Duplicate entry 'S3409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3409',1,65)
+ERR: 1062:Duplicate entry 'S3423' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3423',1,62)
+ERR: 1062:Duplicate entry 'S3502' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3502',1,65)
+ERR: 1062:Duplicate entry 'S3509' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3509',1,60)
+ERR: 1062:Duplicate entry 'S3523' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3523',1,40)
+ERR: 1062:Duplicate entry 'S4407' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4407',1,50)
+ERR: 1062:Duplicate entry 'S4411' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4411',1,73)
+ERR: 1062:Duplicate entry 'S4511' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4511',1,55)
+ERR: 1062:Duplicate entry 'S4512' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4512',1,60)
 
-[ 2017-11-23T14:48:35+08:00 ] 113.64.72.167 /cmApp/index
-ERR: Could not open Public/upload/S3316.xlsx for reading! File does not exist.
+[ 2017-11-23T23:18:48+08:00 ] ::1 /cmApp/Admin/exprotExcelMany
+ERR: 1062:Duplicate entry 'S3309' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3309',1,60)
+ERR: 1062:Duplicate entry 'S3316' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3316',1,68)
+ERR: 1062:Duplicate entry 'S3319' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3319',1,68)
+ERR: 1062:Duplicate entry 'S3409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3409',1,65)
+ERR: 1062:Duplicate entry 'S3423' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3423',1,62)
+ERR: 1062:Duplicate entry 'S3502' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3502',1,65)
+ERR: 1062:Duplicate entry 'S3507' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3507',1,100)
+ERR: 1062:Duplicate entry 'S3509' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3509',1,60)
+ERR: 1062:Duplicate entry 'S4409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4409',1,51)
+ERR: 1062:Duplicate entry 'S4411' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4411',1,73)
+ERR: 1062:Duplicate entry 'S4511' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4511',1,55)
+ERR: 1062:Duplicate entry 'S4512' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4512',1,60)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,100)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：02' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：02',2,0)
+ERR: 1062:Duplicate entry 'J1102' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1102',2,58)
+ERR: 1062:Duplicate entry 'J1103' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1103',2,84)
+ERR: 1062:Duplicate entry 'J1104' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1104',2,84)
+ERR: 1062:Duplicate entry 'J1108' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1108',2,84)
+ERR: 1062:Duplicate entry 'J1109' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1109',2,84)
+ERR: 1062:Duplicate entry 'J1110' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1110',2,58)
+ERR: 1062:Duplicate entry 'J1202' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1202',2,58)
+ERR: 1062:Duplicate entry 'J1203' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1203',2,84)
+ERR: 1062:Duplicate entry 'J1204' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1204',2,84)
+ERR: 1062:Duplicate entry 'J1205' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1205',2,112)
+ERR: 1062:Duplicate entry 'J1206' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1206',2,112)
+ERR: 1062:Duplicate entry 'J1207' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1207',2,84)
+ERR: 1062:Duplicate entry 'J1208' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1208',2,84)
+ERR: 1062:Duplicate entry 'J1209' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1209',2,58)
+ERR: 1062:Duplicate entry 'J1211' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1211',2,72)
+ERR: 1062:Duplicate entry 'J1212' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1212',2,72)
+ERR: 1062:Duplicate entry 'J1302' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1302',2,58)
+ERR: 1062:Duplicate entry 'J1303' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1303',2,84)
+ERR: 1062:Duplicate entry 'J1304' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1304',2,84)
+ERR: 1062:Duplicate entry 'J1305' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1305',2,112)
+ERR: 1062:Duplicate entry 'J1306' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1306',2,112)
+ERR: 1062:Duplicate entry 'J1307' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1307',2,84)
+ERR: 1062:Duplicate entry 'J1308' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1308',2,84)
+ERR: 1062:Duplicate entry 'J1309' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1309',2,58)
+ERR: 1062:Duplicate entry 'J1311' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1311',2,110)
+ERR: 1062:Duplicate entry 'J1312' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1312',2,110)
+ERR: 1062:Duplicate entry 'J1402' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1402',2,69)
+ERR: 1062:Duplicate entry 'J1403' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1403',2,89)
+ERR: 1062:Duplicate entry 'J1404' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1404',2,89)
+ERR: 1062:Duplicate entry 'J1405' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1405',2,134)
+ERR: 1062:Duplicate entry 'J1406' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1406',2,134)
+ERR: 1062:Duplicate entry 'J1407' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1407',2,89)
+ERR: 1062:Duplicate entry 'J1408' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1408',2,89)
+ERR: 1062:Duplicate entry 'J1409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1409',2,69)
+ERR: 1062:Duplicate entry 'J1411' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1411',2,220)
+ERR: 1062:Duplicate entry 'J1502' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1502',2,69)
+ERR: 1062:Duplicate entry 'J1503' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1503',2,89)
+ERR: 1062:Duplicate entry 'J1504' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1504',2,89)
+ERR: 1062:Duplicate entry 'J1505' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1505',2,139)
+ERR: 1062:Duplicate entry 'J1506' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1506',2,139)
+ERR: 1062:Duplicate entry 'J1507' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1507',2,89)
+ERR: 1062:Duplicate entry 'J1508' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1508',2,89)
+ERR: 1062:Duplicate entry 'J1509' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1509',2,69)
+ERR: 1062:Duplicate entry 'J1511' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J1511',2,220)
+ERR: 1062:Duplicate entry 'J2102' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2102',2,154)
+ERR: 1062:Duplicate entry 'J2103' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2103',2,156)
+ERR: 1062:Duplicate entry 'J2107' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2107',2,156)
+ERR: 1062:Duplicate entry 'J2108' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2108',2,154)
+ERR: 1062:Duplicate entry 'J2202' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2202',2,81)
+ERR: 1062:Duplicate entry 'J2203' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2203',2,83)
+ERR: 1062:Duplicate entry 'J2204' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2204',2,83)
+ERR: 1062:Duplicate entry 'J2205' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2205',2,112)
+ERR: 1062:Duplicate entry 'J2206' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2206',2,112)
+ERR: 1062:Duplicate entry 'J2207' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2207',2,83)
+ERR: 1062:Duplicate entry 'J2208' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2208',2,83)
+ERR: 1062:Duplicate entry 'J2209' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2209',2,81)
+ERR: 1062:Duplicate entry 'J2302' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2302',2,81)
+ERR: 1062:Duplicate entry 'J2303' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2303',2,83)
+ERR: 1062:Duplicate entry 'J2304' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2304',2,83)
+ERR: 1062:Duplicate entry 'J2305' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2305',2,112)
+ERR: 1062:Duplicate entry 'J2306' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2306',2,112)
+ERR: 1062:Duplicate entry 'J2307' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2307',2,83)
+ERR: 1062:Duplicate entry 'J2308' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2308',2,83)
+ERR: 1062:Duplicate entry 'J2309' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2309',2,81)
+ERR: 1062:Duplicate entry 'J2311' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2311',2,250)
+ERR: 1062:Duplicate entry 'J2402' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2402',2,81)
+ERR: 1062:Duplicate entry 'J2403' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2403',2,83)
+ERR: 1062:Duplicate entry 'J2404' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2404',2,83)
+ERR: 1062:Duplicate entry 'J2405' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2405',2,112)
+ERR: 1062:Duplicate entry 'J2406' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2406',2,112)
+ERR: 1062:Duplicate entry 'J2407' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2407',2,83)
+ERR: 1062:Duplicate entry 'J2408' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2408',2,83)
+ERR: 1062:Duplicate entry 'J2409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2409',2,81)
+ERR: 1062:Duplicate entry 'J2411' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2411',2,250)
+ERR: 1062:Duplicate entry 'J2502' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2502',2,81)
+ERR: 1062:Duplicate entry 'J2503' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2503',2,83)
+ERR: 1062:Duplicate entry 'J2504' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2504',2,83)
+ERR: 1062:Duplicate entry 'J2505' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2505',2,112)
+ERR: 1062:Duplicate entry 'J2506' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2506',2,112)
+ERR: 1062:Duplicate entry 'J2507' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2507',2,83)
+ERR: 1062:Duplicate entry 'J2508' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2508',2,83)
+ERR: 1062:Duplicate entry 'J2509' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2509',2,81)
+ERR: 1062:Duplicate entry 'J2511' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J2511',2,250)
+ERR: 1062:Duplicate entry 'J3106' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3106',2,156)
+ERR: 1062:Duplicate entry 'J3107' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3107',2,156)
+ERR: 1062:Duplicate entry 'J3202' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3202',2,84)
+ERR: 1062:Duplicate entry 'J3203' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3203',2,84)
+ERR: 1062:Duplicate entry 'J3204' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3204',2,84)
+ERR: 1062:Duplicate entry 'J3205' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3205',2,104)
+ERR: 1062:Duplicate entry 'J3206' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3206',2,104)
+ERR: 1062:Duplicate entry 'J3207' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3207',2,84)
+ERR: 1062:Duplicate entry 'J3208' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3208',2,84)
+ERR: 1062:Duplicate entry 'J3209' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3209',2,84)
+ERR: 1062:Duplicate entry 'J3211' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3211',2,142)
+ERR: 1062:Duplicate entry 'J3302' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3302',2,84)
+ERR: 1062:Duplicate entry 'J3303' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3303',2,84)
+ERR: 1062:Duplicate entry 'J3304' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3304',2,84)
+ERR: 1062:Duplicate entry 'J3305' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3305',2,104)
+ERR: 1062:Duplicate entry 'J3306' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3306',2,104)
+ERR: 1062:Duplicate entry 'J3307' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3307',2,84)
+ERR: 1062:Duplicate entry 'J3308' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3308',2,84)
+ERR: 1062:Duplicate entry 'J3309' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3309',2,84)
+ERR: 1062:Duplicate entry 'J3311' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3311',2,262)
+ERR: 1062:Duplicate entry 'J3402' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3402',2,84)
+ERR: 1062:Duplicate entry 'J3403' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3403',2,84)
+ERR: 1062:Duplicate entry 'J3404' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3404',2,84)
+ERR: 1062:Duplicate entry 'J3407' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3407',2,84)
+ERR: 1062:Duplicate entry 'J3408' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3408',2,84)
+ERR: 1062:Duplicate entry 'J3409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3409',2,84)
+ERR: 1062:Duplicate entry 'J3411' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3411',2,262)
+ERR: 1062:Duplicate entry 'J3507' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('J3507',2,262)
+ERR: 1062:Duplicate entry 'S1503' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S1503',1,64)
+ERR: 1062:Duplicate entry 'S3207' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3207',1,50)
+ERR: 1062:Duplicate entry 'S3209' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3209',1,53)
+ERR: 1062:Duplicate entry 'S3214' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3214',1,55)
+ERR: 1062:Duplicate entry 'S3223' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3223',1,60)
+ERR: 1062:Duplicate entry 'S3309' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3309',1,60)
+ERR: 1062:Duplicate entry 'S3316' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3316',1,68)
+ERR: 1062:Duplicate entry 'S3319' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3319',1,68)
+ERR: 1062:Duplicate entry 'S3409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3409',1,65)
+ERR: 1062:Duplicate entry 'S3423' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3423',1,62)
+ERR: 1062:Duplicate entry 'S3502' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3502',1,65)
+ERR: 1062:Duplicate entry 'S3509' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3509',1,60)
+ERR: 1062:Duplicate entry 'S4411' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4411',1,73)
+ERR: 1062:Duplicate entry 'S4511' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4511',1,55)
+ERR: 1062:Duplicate entry 'S4512' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4512',1,60)
 
-[ 2017-11-23T14:49:06+08:00 ] 113.64.72.167 /cmApp/login
-ERR: 无法加载控制器:Login
+[ 2017-11-23T23:22:37+08:00 ] ::1 /cmApp/Admin/exprotExcelMany
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,100)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：02' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：02',2,0)
+ERR: 1062:Duplicate entry 'S3316' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3316',1,68)
+ERR: 1062:Duplicate entry 'S3319' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3319',1,68)
+ERR: 1062:Duplicate entry 'S3409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3409',1,65)
+ERR: 1062:Duplicate entry 'S3423' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3423',1,62)
+ERR: 1062:Duplicate entry 'S3502' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3502',1,65)
+ERR: 1062:Duplicate entry 'S3509' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3509',1,60)
+ERR: 1062:Duplicate entry 'S4411' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4411',1,73)
+ERR: 1062:Duplicate entry 'S4511' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4511',1,55)
+ERR: 1062:Duplicate entry 'S4512' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4512',1,60)
 
-[ 2017-11-23T14:49:07+08:00 ] 113.64.72.167 /cmApp/index
-ERR: Could not open Public/upload/S3316.xlsx for reading! File does not exist.
-
-[ 2017-11-23T14:49:10+08:00 ] 113.64.72.167 /cmApp/index
-ERR: Could not open Public/upload/S3316.xlsx for reading! File does not exist.
-
-[ 2017-11-23T14:49:11+08:00 ] 113.64.72.167 /cmApp/index
-ERR: Could not open Public/upload/S3316.xlsx for reading! File does not exist.
-
-[ 2017-11-23T14:49:11+08:00 ] 113.64.72.167 /cmApp/index
-ERR: Could not open Public/upload/S3316.xlsx for reading! File does not exist.
-
-[ 2017-11-23T14:49:11+08:00 ] 113.64.72.167 /cmApp/index
-ERR: Could not open Public/upload/S3316.xlsx for reading! File does not exist.
-
-[ 2017-11-23T14:49:18+08:00 ] 113.64.72.167 /cmApp/admin/index.php
-ERR: 非法操作:index.php
-
-[ 2017-11-23T14:49:28+08:00 ] 101.226.33.217 /cmApp/admin/index.php
-ERR: 非法操作:index.php
+[ 2017-11-23T23:34:17+08:00 ] ::1 /cmApp/Admin/exprotExcelMany
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,100)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：01' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：01',2,0)
+ERR: 1062:Duplicate entry '：02' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('：02',2,0)
+ERR: 1062:Duplicate entry 'S3319' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3319',1,68)
+ERR: 1062:Duplicate entry 'S3409' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3409',1,65)
+ERR: 1062:Duplicate entry 'S3423' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3423',1,62)
+ERR: 1062:Duplicate entry 'S3502' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3502',1,65)
+ERR: 1062:Duplicate entry 'S3509' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S3509',1,60)
+ERR: 1062:Duplicate entry 'S4411' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4411',1,73)
+ERR: 1062:Duplicate entry 'S4511' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4511',1,55)
+ERR: 1062:Duplicate entry 'S4512' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `cm_room` (`room_name`,`room_type_id`,`room_volume`) VALUES ('S4512',1,60)
 

@@ -1,0 +1,1888 @@
+[ 2017-11-25T21:53:06+08:00 ] ::1 /cmApp/admin/exportStuMes
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,null,null,null,'00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'','','','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'姓名','性别','民族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'翁佳铭','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'赖鹏涛','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'詹浩涌','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李朴一','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蔡瑞俊','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈志东','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨俊朗','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈祈祈','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'莫茜茜','女','壮族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑佳琳','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'徐永家','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄梓健','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈镇创','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈巧玲','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁玉徽','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'全振初','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈思敏','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郭琳锺','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄镇澄','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'谢美芳','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴家健','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁海清','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'韦国康','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'江欣怡','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'胡嘉朗','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'钟思明','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'钟兆基','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁培煜','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王锐','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑宝君','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨伟杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘振杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'姚泽棉','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张海伦','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'肖进娣','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'丁晓锐','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黎海钰','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'何伟军','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陆文广','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘灿燊','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'何婷婷','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈俊颖','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邓桂泳','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'程博伦','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'崔雨婷','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'谢振莹','女','白族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴贞云','男','布依族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'舒松','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'罗文','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'汤宏慧','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'侯圣杰','男','蒙古族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李宜耕','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张朝兴','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李嘉炜','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈林','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王伟丁','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'欧苗苗','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑立万','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黎英伟','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'冯晓欣','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄模荣','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张良策','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'饶文强','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李佳琳','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'何文杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郭泽浩','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈鲁','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'程鑫','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'江梓豪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄明政','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'许卓生','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁泽恒','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'尤英山','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'周星达','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'宾灿坤','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郭佳源','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴佳鑫','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王嘉宝','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'何宗霖','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'薛清槟','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'钟浩鹏','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'曹杰榆','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'许世杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈茂洁','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'卢家铭','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李美霖','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邱梓嘉','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄春平','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'谢杰锋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'潘健雄','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'曹家辉','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'彭海','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蔡楚乐','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'廖剑锋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'冯志斌','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁铭泉','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'尹银娣','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'罗斯乾','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑锐朗','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林倬','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张焕然','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈奕涠','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'高文江','男','布依族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'韦晓科','男','布依族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'姚篮','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郭蒙蒙','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张洁璇','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'冯立志','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'姚定邦','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蔡智','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈汉杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'徐利兵','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'侯新鹏','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄卓辉','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈泽权','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴文双','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'丁有生','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'丁度锦','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄泽远','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'洪坤锋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'何嘉顺','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁瑞铵','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'方惠敏','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'谢美霞','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈典渠','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑泳银','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张伟涛','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'庄增鑫','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'汤兆锋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'周伟杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈永鑫','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林松金','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'叶帅','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张俊林','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'苏景','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'夏佳纯','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'曾桂清','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林本辉','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邓润发','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'谢林峰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蓝钟鸿','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李铄淇','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'马勇立','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杜凤娟','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'符鋆','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁钰莹','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'何宇朝','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李永锋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李秋婷','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄骏文','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'庄雨烯','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'马欢欢','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'朱迪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张景','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈修玉','男','苗族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李裕东','男','苗族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'何重涛','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'肖振宇','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈日智','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'何佳鑫','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'彭振豪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'欧阳靖熙','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'余海游','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蔡忠霖','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'胡长威','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'涂松凯','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'江豪朗','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'廖琦','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林希杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邝铫濠','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张铭鸿','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王耀南','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张晓彬','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘洛','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈厚光','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邓志良','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴荣权','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王宇锋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'卢尚洒','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'苏嘉豪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李孔鹏','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杜伟杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈兰静','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'韦国群','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李国玮','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张飘月','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'庞景恒','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄俊鹏','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈毅莹','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄海峰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'何聪','男','满族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'徐又天','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'肖艺展','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'谢鹏程','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'卢颖','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑贺原','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈志明','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'赵友余','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈泳嘉','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李宗熹','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴国洪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'符辉','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邓崇林','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'毕启镔','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈磊','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'曾俊潼','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林国明','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈皓','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张文浩','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张文博','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'叶逸霖','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄宏智','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邬琪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑恩超','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈政朋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'徐明峰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黎世鸿','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邱福灵','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李子航','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'麦海炀','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邹淇','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张鑫','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林锦湖','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'何少斌','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'周荣圣','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李嘉豪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'卢诗琳','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨睿','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈烁','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨伟杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄鑫','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林浩斌','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'罗文东','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李洪杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'戴高鹏','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李炜宁','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈香利','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'叶锦成','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'朱政霖','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈则愷','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄洁雅','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴志斌','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李俊贤','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'霍俊巍','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁建华','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨潇','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴键艺','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁宏纯','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'白伟杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'许柏基','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蔡健东','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李锐鸿','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁俊谦','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'赖宣荣','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈镇滥','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李嘉健','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蔡泽良','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘子杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈新','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈广森','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁梨','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈升辉','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘琦','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'周曦','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王金鸿','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'招浩贤','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郭钰飞','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'赵国宝','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘康','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁志泳','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈楚盈','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄贤首','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴涵','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄惠贤','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'钟淇','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'江妙玲','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张杰炼','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郭岱铭','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄子恩','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'毛倍如','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'房李俊','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林增涛','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'廖远鑫','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄秀婷','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张婷婷','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'谭龙龙','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林凯龙','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'廖燕子','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨进鸿','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'谢文金','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邓正炜','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'熊祖迪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄展鸿','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'赵凤翔','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'龚雪莲','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张晓雪','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈镇林','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邹夏芳','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'冯银海','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈志铭','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄嘉俊','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张宏亮','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'欧锦明','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈嘉明','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'严振东','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'麦炳泉','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'叶浩正','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'罗炜聪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郭家梁','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'伍富强','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘昶顺','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴晓东','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'石玮峰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'区家祥','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'江玉芳','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'翁炽良','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'龙森','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李梓健','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张展亮','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨至文','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘慈娟','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘超越','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘志锋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘樱岚','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郭浩樑','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'唐钰森','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林骏枫','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈迎莹','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈锦文','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈子浩','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨洪源','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄燕琳','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'顿鑫焱','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邵思东','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘美仙','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李培剑','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈俊艇','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'周伟森','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邱奕根','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'辜晓伟','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'孔维灿','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邓永健','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'肖文杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴雪萍','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'方冠昱','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张敏瑞','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'庄秀云','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'魏文龙','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨美怡','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'赖远鸿','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄玫佳','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'朱芷芯','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张旭新','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李思宇','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'徐彬彬','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蔡智杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑水森','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈锦威','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'许雪梅','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林坤宏','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吕才荣','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨田金','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'殷旭兵','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陆观敏','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李翠丽','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'潘紫春','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄翠婵','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'余圣鑫','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑清志','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李婷婷','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴泽鹏','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘燊华','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'盘其健','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'卢卓南','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈昊川','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林佳荣','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'胡铭锋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨键嘉','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈旭生','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁宇嫦','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邱永健','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'许高孪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'苏煜华','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'莫彩艳','女','壮族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'莫耀伟','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李豪杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'叶治政','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'彭嘉敏','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁楚颖','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈本庚','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邝志浩','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'龙志江','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张晓彤','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邱卓文','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘伟成','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'伍静仪','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郭灼敏','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑文升','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'叶小龙','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李雄震','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张浩成','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘建广','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'植美杏','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'冼汝鹏','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'丘岭明','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王艺缙','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杜泓伟','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈锐良','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈国运','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'苏宏轩','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁子杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邱志德','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林庚凯','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'卢文轩','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杜稳倩','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'姚珊珊','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'周子钦','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'罗兵','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'贺志强','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄展明','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'丘韶雄','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'连献群','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林伟宜','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'何浩铭','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林川强','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'韩世灼','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴统生','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蔡裕华','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'舒婉玲','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄湛鸣','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李榕卷','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈伟明','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蔡良杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈智杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈镕滨','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'严梓中','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'姜元','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈焕锋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄学俊','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'曾雪芳','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'麦耀武','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘鉴崧','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'周进文','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'许泽豪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'江伟荣','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁活星','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈海松','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'叶小满','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李汉聪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'古杰荣','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄朝光','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'夏智荣','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘京明','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈舒雪','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'谢栋波','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄涛','男','壮族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'朱腾','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郭书亨','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'廖慧权','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王煜鹏','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'庄桶灵','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘晓恒','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈汉城','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王逸璇','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈钰莹','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'程梓豪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'倪国麟','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王炎武','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林铖涛','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'廖志明','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蓝英杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张德良','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'罗浩然','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'缪耀康','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑文豪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'袁英铭','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈浩南','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'严琳','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林炽华','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘永刚','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘得君','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王畅','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'滕丹','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈铭','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张洁璇','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴锦梅','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑宗雄','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林琼','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'朱雯雯','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'柯灵峥','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈佳仪','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张锐','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁文旭','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'布子颖','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄泽诚','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'曾怀业','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴嘉乐','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'柯振朋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吕群府','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李勇豪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'肖镇鹏','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'徐炜镇','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'曾文意','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈丹霞','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'袁浩迪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈灿鸿','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蒋远辉','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'江悦桐','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁尔婷','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄培英','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨堂','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张素阳','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'余团坚','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'何华水','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'湛芷珊','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄翠莹','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈勇宏','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'骆坚顺','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'苏岸辉','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨秀灵','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'苏安芹','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刁文金','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄诗媛','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑少敏','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'欧丽儿','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'沈宇慧','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'潘笑燏','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张莹莹','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑冰真','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'曾春月','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴肖湘','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑嘉儿','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'彭文知','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'方锦灿','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'马俊铬','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'曾祯','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张艾琪','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邱锐熙','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张肇聪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'阮嘉雄','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨青青','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蔡益珠','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴晓静','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'姚燕青','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄丽菲','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴秋琬','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'汤绮雯','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄妙婷','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林沛钿','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邓宇航','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'高彩虹','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'范锦文','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林泽南','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李宇佩','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈玉熔','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'温若冰','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'佘树燕','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张文虎','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'冼维鑫','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'莫剑峰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'周庚明','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'姚相业','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁海胜','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈坤晔','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'魏镇鹏','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄锦荣','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林延广','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'丁香','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林铭哲','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蔡晓乾','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'袁佳坤','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘腾','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'周小康','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邓浩松','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈永豪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'马佩珊','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈嘉崇','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'卢嘉铭','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'赵一铭','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郭文笛','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'胡志安','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'余小强','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄植强','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈建文','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'古远峰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈德庆','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'罗裕恒','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邓智锋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'曾炯雍','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吕杰群','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'温锐良','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'徐伟炫','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'倪丹娜','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'何宇青','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'熊浩徽','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'廖恺迪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林义极','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'谢鑫涛','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'覃颖俊','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'段海锋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林楚赢','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'姚善淇','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林志杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'欧鑫淼','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴振邦','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘靖娴','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄雄骏','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄美雲','女','壮族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林天意','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'许新贤','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑明瑞','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林炜淇','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑轩彧','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄保荣','男','土家族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'罗元威','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'周政杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王明','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'周璐','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'赖济伟','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邓建强','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王翔','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘翔','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'温文丽','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'麦溢婷','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王欢婷','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'卓俊艺','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林晓锰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林思欣','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈侠绅','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈维朝','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'曾宏立','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘文豪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄婉敏','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张晓文','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'高成义','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈建银','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李振锋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁健伟','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王依文','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张毅展','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈奕文','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'谢荏华','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李权轩','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈蒙伟','男','壮族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'范伟锴','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨奕涵','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'卢睿','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁嘉泓','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴晓莲','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'翟梦玲','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'洪英深','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'周杨东','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杜月丽','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'周星旭','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'植中泽','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'余呈日','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'钟凯茵','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈健威','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蔡佳鑫','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈永锦','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'谢倚侨','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王锐林','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'文骏镔','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑灿希','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄凯淞','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'何永键','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邓志业','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈兴昌','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林宪辉','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李少逸','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'严金泳','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'莫振渝','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈志聪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'戴婕','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'高欣','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'孔德湛','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'何昱键','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'胡洛滔','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄晓莹','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'田乙凯','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑浩','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李瑞征','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'徐帅','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'马晨','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'周沛杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'许开钧','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李明心','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'赖泽晶','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林俊彦','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邱棠旭','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑凯文','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'施学锐','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蔡钟鹏','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'余柱峰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'赖明鑫','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈佳锋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张鹤云','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'冯嘉惠','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杜泽锋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'丘宏达','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁皓强','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘金锋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘宏涛','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘绍然','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'练宇情','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'江勇杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'曾晓纯','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'袁煜彬','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈稳权','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈一萌','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈聪慧','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'朱陈敏','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'钟胜华','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈铖','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张华浩','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'傅奕霖','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'许铭泓','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'何林洋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴舒梅','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'莫凡','男','壮族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'骆婷','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄国彬','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'徐高斌','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'许永祥','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'钟玉祥','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王刘山','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'南一凡','女 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李鸿辉','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘奎','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'屈浩洋','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'冀峰浩','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'魏治琦','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'叶世平','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁建成','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈瑞环','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑启康','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李梦桐','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蔡敏','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'庄楠楠','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'叶水华','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'肖佳铨','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁家辉','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张泽娜','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'宋玉华','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'丘颖杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'钟永铭','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈俊毫','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'徐铭成','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'卢泽鹏','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'石志圣','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'关志福','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨进光','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈秋明','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘李燕','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李佛金','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'秦彩媚','女 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李志豪','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'赵旺','男 ','壮族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄远锋','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李云锋','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'易世康','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邱家乾','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'曾勇清','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'苏世洪','男 ','瑶族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨颂英','女 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吕琦','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王永前','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王蒙召','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王小飞','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'司涛','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李金泽','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘凤祥','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈丽君','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'马瑞蕊','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王维轲','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘迪轩','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄贵勇','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈斯纳','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林武山','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'方健彬','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'许博霖','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄育云','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄捷涛','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'卓晓茵','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈希宁','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李增杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'曾青云','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邹裕情','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴梓杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄杨波','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'温秋其','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林志强','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李乐豪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林锦芝','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁伟诚','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李廷斌','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林嘉宏','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨登峰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴嘉峻','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄多明','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邱海柱','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴权键','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李冠雄','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李春丽','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈学轩','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'谢海珊','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李烁','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'詹逢裕','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄华','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄天明','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄煜东','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄霁云','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴广森','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈晓欣','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'谭冬仪','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林汉镔','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邝淑恩','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'廖水英','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈永锋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'骆梓豪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'廖苑','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张振贤','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴晓玉','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴金敏','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'潘家龙','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'凌云钊','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林懿','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴力','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'赖如标','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'詹玉燕','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'徐子楷','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'彭祥','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李松','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁露瑶','女 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李俊炫','男 ','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陶光凯','男','侗族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王海刚','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'方思能','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'肖文浩','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'钟卓琳','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李芳朗','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林仕炳','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蔡俊鸿','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'柯嘉键','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'江杰薇','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蔡泽林','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'许其耕','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'曾永隆','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'曹斌','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁思切','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'庄志凯','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈达恒','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张三江','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张键锋','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'喻正均','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑少丰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'纪钦涛','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'宋采芸','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄福启','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'肖裕伦','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈周放','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吕东龙','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'马嘉鸿','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'王钊涛','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'孟泽宇','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄家豪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'蔡家欢','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴启迪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'丁铭烽','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'严俊杰','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张炯钊','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈国松','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈泽炫','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨凯聪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'关沛辉','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈怡星','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄诗欣','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邓君乐','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑夏','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'周其键','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘文俊','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'马泽荣','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁惠','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'姚垒','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'涂浪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'柳钊','男','仡佬族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'任玮璇','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄婷婷','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张学林','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴佳慧','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'庄宇轩','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'方建鑫','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'董富林','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'董成双','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郑丽铃','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'卓雁倩','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴智武','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张冰鑫','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁家俊','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李冰仪','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'莫伟澜','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈海燕','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李迪彬','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'周永达','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'赖宇森','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'曾志艺','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林佳杭','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘楠擎','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'刘锡熊','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林楚旺','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨美茵','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'江旭城','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'高曼冰','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'张凯玲','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'杨钰婷','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴泽萍','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈林','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈学天','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'关文锐','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄其鑫','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林振填','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈子豪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'郭瑞岳','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'程树滔','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'吴界平','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'陈楚颖','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'邵永健','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'黄镇豪','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'廖浩清','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'冯丽明','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'林达儒','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'李俊岐','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'梁水连','女','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'甘宇财','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,'苏树兴','男','汉族','00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,null,null,null,'00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,null,null,null,'00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,null,null,null,'00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,null,null,null,'00.png','123',0)
+ERR: 1048:Column 'stu_no' cannot be null
+ [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (null,null,null,null,'00.png','123',0)
+
