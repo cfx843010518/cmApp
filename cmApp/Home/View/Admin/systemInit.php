@@ -31,8 +31,11 @@
 		else if(temp==3){
 			$('#dlg').dialog('open').dialog('setTitle','单个教师课表信息录入');
 			$('#fm').form('clear');
-		}else{
+		}else if(temp==4){
 			$('#dlg').dialog('open').dialog('setTitle','教室容量信息录入');
+			$('#fm').form('clear');
+		}else{
+			$('#dlg').dialog('open').dialog('setTitle','学生信息录入');
 			$('#fm').form('clear');
 		}
 	}
@@ -51,6 +54,9 @@
 		else if(temp==3)
 		{
 			$('#dlg2').dialog('open').dialog('setTitle','多个教师课表信息录入');
+			$('#fm2').form('clear');
+		}else if(temp==5){
+			$('#dlg2').dialog('open').dialog('setTitle','多个学生信息录入');
 			$('#fm2').form('clear');
 		}
 	}
@@ -84,12 +90,21 @@
 				$('#fm').submit();
 			}
 		}
-		else{
+		else if(temp==4){
 			var isNull = $('#file').val();
 			if(isNull==""){
 				alert('请选择文件');
 			}else{
 				$('#fm').attr("action","exportRoomBigSmall"); 
+				$('#fm').submit();
+			}
+		}
+		else{
+			var isNull = $('#file').val();
+			if(isNull==""){
+				alert('请选择文件');
+			}else{
+				$('#fm').attr("action","exportStuMes"); 
 				$('#fm').submit();
 			}
 		}
@@ -130,6 +145,16 @@
 				$('#fm2').submit();
 			}
 		}
+		else if(temp==5){
+			var isNull = $('#file2').val();
+			if(isNull==""){
+				alert('请选择文件');
+			}else{
+				// alert('a');
+				$('#fm2').attr("action","exprotManyStuMes");
+				$('#fm2').submit();
+			}
+		}
 	}
 </script>
 <body>
@@ -156,11 +181,12 @@ if(!isset($_SESSION['user'])){
 	</div>
 	<div id="content" region="center" title="内容" style="padding:5px;">
 		<!--创建菜单按钮-->
-		<div style="background:#fafafa;padding:5px;width:500px;border:1px solid #ccc">
+		<div style="background:#fafafa;padding:5px;width:650px;border:1px solid #ccc">
 			<a href="#" class="easyui-menubutton" menu="#mm1" iconCls="icon-edit">教室课表导入</a>
 			<a href="#" class="easyui-menubutton" menu="#mm2" iconCls="icon-edit">学生课表导入</a>
 			<a href="#" class="easyui-menubutton" menu="#mm3" iconCls="icon-edit">教师课表导入</a>
 			<a href="#" class="easyui-menubutton" menu="#mm4" iconCls="icon-edit">教室容量导入</a>
+			<a href="#" class="easyui-menubutton" menu="#mm5" iconCls="icon-edit">学生信息导入</a>
 		</div>
 		<div id="mm1" style="width:150px;">
 			<div iconCls="icon-redo"><a href="javascript:void(0)" onclick="newInitOne(1)">单个教室课表导入</a></div>
@@ -176,6 +202,10 @@ if(!isset($_SESSION['user'])){
 		</div>
 		<div id="mm4" style="width:150px;">
 			<div iconCls="icon-redo"><a href="javascript:void(0)" onclick="newInitOne(4)">导入教室容量</div>
+		</div>
+		<div id="mm5" style="width:150px;">
+			<div iconCls="icon-redo"><a href="javascript:void(0)" onclick="newInitOne(5)">单个学生信息表导入</div>
+			<div iconCls="icon-redo"><a href="javascript:void(0)" onclick="newInitMany(5)">多个学生信息表导入</div>
 		</div>
 		<!--新增单个表-->
 		<div id="dlg" class="easyui-dialog" style="width:400px;height:280px;padding:10px 20px" closed="true" buttons="#dlg-buttons">
@@ -205,9 +235,6 @@ if(!isset($_SESSION['user'])){
 			<a href="#" class="easyui-linkbutton" iconCls="icon-ok" onclick="saveRoomsMes()">导入</a>
 			<a href="javascript:void(0)" class="easyui-linkbutton" iconCls="icon-cancel" onclick="javascript:$('#dlg2').dialog('close')">取消</a>
 		</div>
-		
-		
-		
 	</div>
 </div>
 </body>

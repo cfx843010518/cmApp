@@ -90,8 +90,10 @@ session_start(); if(!isset($_SESSION['user'])){ header("Location: index"); } ?>
 	<div region="west" split="true" title="导航栏" style="width:200px;">
 		<p style="padding:5px;margin:0;"><strong>基础信息录入|删除</strong></p>
 		<ul>
-			<li><a href="init">初始化信息录入</a></li>
-			<li><a href="MesTrun" onclick="return confirm('确定要清空所有数据？(该操作不可逆)')">清空数据</a></li>
+			<ul>
+			<li><a href="init">初始化信息录入</a></li><br/>
+			<li><a href="MesTrun" onclick="return confirm('确定要清空所有数据？(该操作不可逆)')">清空数据</a></li><br/>
+		</ul>
 		</ul>
 		<p style="padding:5px;margin:0;"><strong>用户管理(管理权限)</strong></p>
 		<ul>

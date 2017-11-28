@@ -6,7 +6,7 @@ return array(
 	'DB_TYPE' => 'mysql',	//数据库类型
 	'DB_HOST' => 'localhost',
 	'DB_USER' => 'root',
-	'DB_PWD' => '123',
+	'DB_PWD' => '',
 	'DB_NAME' => 'cm_app',
 	'DB_PORT' => 3306,
 	'DB_PREFIX' => 'cm_',     //表前缀

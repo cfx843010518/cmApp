@@ -5,6 +5,11 @@
 <title>测试</title>
 </head>
 <body>
+	
+	
+	
+	
+	<!--
 	<form action="applyRoom" method="GET">
 		申请用户id：<input type="text" name="user_id"/> <br/><br/>
 		申请类型：<input type="text" name="active_type"/> <br/><br/>
@@ -16,5 +21,6 @@
 		课室编号：<input type="text" name="room_name"/><br/><br/>
 		<input type="submit" value="申请"/>
 	</form>
+	-->
 </body>
 </html>

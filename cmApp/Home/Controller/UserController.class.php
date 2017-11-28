@@ -138,6 +138,35 @@ class UserController extends Controller {
 		echo json_encode($ret);
 	}
 	
+	//获取学生活动
+	public function getStudentActive(){
+		$ret = array('res'=>null,'status'=>'lose');
+		$user_id = I('get.user_id','');
+		if($user_id != ''){
+			$condition['active_type'] = 1;
+			$condition['is_approw'] = 1;
+			$condition['is_share'] = 1;
+			$rs = M('roomApply')->where($condition)->order('apply_date desc')->select();
+			$res = array('mes'=>$rs,'mes_num'=>count($rs));
+			$ret = array('res'=>$res,'status'=>'success');
+		}
+		echo json_encode($ret);
+	}
+	
+	public function getTeacherActive(){
+		$ret = array('res'=>null,'status'=>'lose');
+		$user_id = I('get.user_id','');
+		if($user_id != ''){
+			$condition['active_type'] = 2;
+			$condition['is_approw'] = 1;
+			$condition['is_share'] = 1;
+			$rs = M('roomApply')->where($condition)->order('apply_date desc')->select();
+			$res = array('mes'=>$rs,'mes_num'=>count($rs));
+			$ret = array('res'=>$res,'status'=>'success');
+		}
+		echo json_encode($ret);
+	}
+	
 	//获取活动
 	public function getActive(){
 		$ret = array('res'=>null,'status'=>'lose');
@@ -146,12 +175,13 @@ class UserController extends Controller {
 			$condition['is_approve'] = 1;
 			$condition['is_share'] = 1;
 			$condition['active_type'] = 1;
-			$rs = M('roomApply')->where($condition)->order('apply_date desc')->select();
+			$rs = M('roomApply')->where($condition)->order('apply_date desc')->limit(5)->select();
 			$res = array('mes'=>$rs,'mes_num'=>count($rs));
 			$ret = array('res'=>$res,'status'=>'success');
 		}
 		echo json_encode($ret);
 	}
+	
 	
 	public function myTest(){
 		var_dump($_POST);
