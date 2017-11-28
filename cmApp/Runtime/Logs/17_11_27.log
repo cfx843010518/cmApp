@@ -1,6 +1,0 @@
-[ 2017-11-27T22:50:02+08:00 ] ::1 /cmApp/Admin/exportStuMes
-ERR: 1048:Column 'stu_major' cannot be null
- [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (69,'刘殷新','15软件1',null,'00.png','123',0)
-ERR: 1048:Column 'stu_major' cannot be null
- [ SQL语句 ] : INSERT INTO `cm_student` (`stu_no`,`stu_name`,`stu_sex`,`stu_major`,`stu_photo`,`stu_password`,`classes_id`) VALUES (173,'黄润鹏','15软件3',null,'00.png','123',0)
-
